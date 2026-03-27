@@ -1,28 +1,28 @@
 /* ── BRINNAN FONT ── */
 @font-face {
   font-family: 'Brinnan';
-  src: url('/src/fonts/Brinnan Regular.otf') format('opentype');
+  src: url('/fonts/Brinnan-Regular.otf') format('opentype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Brinnan';
-  src: url('/src/fonts/Brinnan Light.otf') format('opentype');
+  src: url('/fonts/Brinnan-Light.otf') format('opentype');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Brinnan';
-  src: url('/src/fonts/Brinnan Bold.otf') format('opentype');
+  src: url('/fonts/Brinnan-Bold.otf') format('opentype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Brinnan';
-  src: url('/src/fonts/Brinnan Black.otf') format('opentype');
+  src: url('/fonts/Brinnan-Black.otf') format('opentype');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
