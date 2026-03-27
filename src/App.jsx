@@ -82,10 +82,11 @@ const iNews = [
 
 /* ─── REAL CINEMA COMPETITORS (Goiânia) ─── */
 const iCompetitors = [
-  {id:1, name:"Cinépolis Goiânia",      handle:"@cinepolisbrasil",     platform:"instagram", followers:"1.2M",  engagement:"2.8%", postsPerWeek:7,  growth:"+1.4%", growthPositive:true,  location:"Passeio das Águas / Flamboyant"},
-  {id:2, name:"Cinemark Brasil",        handle:"@cinemark_br",         platform:"instagram", followers:"842K",  engagement:"3.1%", postsPerWeek:6,  growth:"+0.9%", growthPositive:true,  location:"Shopping Goiânia / Buriti"},
-  {id:3, name:"UCI Kinoplex",           handle:"@ucicinemasbrasil",    platform:"instagram", followers:"198K",  engagement:"2.4%", postsPerWeek:5,  growth:"-0.6%", growthPositive:false, location:"Multiplan / Iguatemi"},
-  {id:4, name:"Cine Cultura Goiânia",   handle:"@cinecultura_goiania", platform:"instagram", followers:"8.4K",  engagement:"6.8%", postsPerWeek:4,  growth:"+3.2%", growthPositive:true,  location:"Centro de Goiânia"},
+  {id:1, name:"Cinemark Goiânia",       handle:"@cinemark_br",         platform:"instagram", followers:"842K",  engagement:"3.1%", postsPerWeek:6,  growth:"+0.9%", growthPositive:true,  location:"Goiânia Shopping / Flamboyant"},
+  {id:2, name:"Kinoplex Buriti",        handle:"@kinoplex",            platform:"instagram", followers:"312K",  engagement:"2.6%", postsPerWeek:5,  growth:"+0.4%", growthPositive:true,  location:"Buriti Shopping"},
+  {id:3, name:"Cinesercla",             handle:"@cinesercla",          platform:"instagram", followers:"48K",   engagement:"4.2%", postsPerWeek:4,  growth:"+1.8%", growthPositive:true,  location:"Centro-Oeste / Goiânia"},
+  {id:4, name:"CineSystem Goiânia",     handle:"@cinesystem",          platform:"instagram", followers:"21K",   engagement:"3.9%", postsPerWeek:3,  growth:"+1.1%", growthPositive:true,  location:"Multiplan"},
+  {id:5, name:"Cine Cultura Goiânia",   handle:"@cinecultura_goiania", platform:"instagram", followers:"8.4K",  engagement:"6.8%", postsPerWeek:4,  growth:"+3.2%", growthPositive:true,  location:"Centro de Goiânia"},
 ];
 
 /* ─── INSTAGRAM DATA — @cinex.goiania (será substituído pelos dados reais da API) ─── */
